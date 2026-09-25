@@ -21,4 +21,4 @@
 
 🐧 Linux · 🏗️ Terraform · 🤖 Ansible · 🐳 Docker · ☸️ Kubernetes · ⎈ Helm · 🐙 ArgoCD · ⚡ GitHub Actions · 🔧 Jenkins · 📊 Prometheus · 📈 Grafana · 🟩 Node.js · ⚛️ React
 
-📫 [Email](roxane451@protonmail.com)
+📫 [Email](mailto:roxane451@protonmail.com)
