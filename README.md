@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Roxane · DevOps
 
+🚀 Plateformes conteneurisées, de l'infrastructure au déploiement.
 
-**roxane451/roxane451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Administrateur Système DevOps (RNCP)** · **Développeuse JavaScript (RNCP)**
 
-Here are some ideas to get you started:
+📜 LPIC-1 (2023) · AZ-900 (2023) · Terraform Associate (2023) · Red Hat Accreditation Ansible (2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 En préparation : CKA · AWS Certified Solutions Architect
 
+---
+
+**🛠️ Projets**
+
+- ☸️ [k3s-gitops-platform](https://github.com/roxane451/k3s-gitops-platform) — Terraform, Ansible, K3s, ArgoCD, observabilité
+- ⎈ [helm-fullstack-chart](https://github.com/roxane451/helm-fullstack-chart) — chart Helm réutilisable, publié en OCI
+- ⚙️ [ci-cd-templates](https://github.com/roxane451/ci-cd-templates) — workflows GitHub Actions réutilisables
+- 🔧 [jenkins-k8s-cicd](https://github.com/roxane451/jenkins-k8s-cicd) — Jenkins, Podman rootless, Trivy, Helm multi-environnements
+
+**🧰 Stack**
+
+🐧 Linux · 🏗️ Terraform · 🤖 Ansible · 🐳 Docker · ☸️ Kubernetes · ⎈ Helm · 🐙 ArgoCD · ⚡ GitHub Actions · 🔧 Jenkins · 📊 Prometheus · 📈 Grafana · 🟩 Node.js · ⚛️ React
+
+📫 [Email](roxane451@protonmail.com)
